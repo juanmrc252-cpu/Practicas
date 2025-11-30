@@ -1,4 +1,4 @@
-package OperacionBancaria;
+package OperacionesBancarias;
 
 public class OperacionBancaria {
     private double saldo;

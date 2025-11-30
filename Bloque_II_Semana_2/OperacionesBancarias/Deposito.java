@@ -1,4 +1,4 @@
-package OperacionBancaria;
+package OperacionesBancarias;
 
 public class Deposito extends OperacionBancaria {
     private double cantidad;
